@@ -80,7 +80,7 @@ ENABLE_CLUSTER_UI="${KUBE_ENABLE_CLUSTER_UI:-true}"
 PROXY_SETTING=${PROXY_SETTING:-""}
 
 # Optional: Allows kublet/kube-api to be run in privileged mode
-ALLOW_PRIVILEGED=${ALLOW_PRIVILEGED:-"false"}
+ALLOW_PRIVILEGED=${ALLOW_PRIVILEGED:-"true"}
 
 DEBUG=${DEBUG:-"false"}
 
