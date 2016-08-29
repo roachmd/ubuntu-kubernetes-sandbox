@@ -1,5 +1,7 @@
 # ubuntu-kubernetes-sandbox
 ***
 
-* Task: Creating a Vagrant file to up a Kubernetes Cluster on Ubuntu 14.04
-* BareMetal instructions: http://kubernetes.io/docs/getting-started-guides/ubuntu/
+* Task: Using baremetal instruction build a vagrant file to up a Kubernetes (master/minion) on Ubuntu 14.04.
+
+### BareMetal Instruction
+http://kubernetes.io/docs/getting-started-guides/ubuntu/
